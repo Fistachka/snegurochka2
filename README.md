@@ -17,8 +17,8 @@
 Нет Дед Мороз, погоди!
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/a4a0deba-3dee-4a02-b176-adbcdd207542 =200x200)
-stolbitsa.com/fistachka/zima4<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/274a7ff8-af3c-430f-8d7f-129610090482 =200x200)
+stolbitsa.com/fistachka/snegurochka<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -39,6 +39,6 @@ Net Ded Moroz, net Ded Moroz,
 Net Ded Moroz, pogodi!
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/a4a0deba-3dee-4a02-b176-adbcdd207542 =200x200)
-stolbitsa.com/fistachka/zima4<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/274a7ff8-af3c-430f-8d7f-129610090482 =200x200)
+stolbitsa.com/fistachka/snegurochka<br><br>
 
