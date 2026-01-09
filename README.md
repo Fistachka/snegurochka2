@@ -3,13 +3,13 @@
 «Расскажи, Снегурочка» из м/ф "Ну, погоди!" 1973г. 2 часть
 ![з4](https://github.com/user-attachments/assets/c7674d4f-dcb3-40dc-9238-3e6e654b1327)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/lzhOncVP2-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/oPkhBKp2mTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Расскажи Снегурочка, где была?
-Расскажи-ка милая, как дела?
-За тобою бегала Дед Мороз
-Пролила немало я горьких слез.
+Ждет моих подарочков ребятня
+И тебе достанется от меня.
+Наконец сбываются все мечты,
+Лучший мой подарочек - это ты!
 
 А ну-ка, давай-ка, плясать выходи!
 Нет Дед Мороз, нет Дед Мороз,
@@ -24,13 +24,13 @@ stolbitsa.com/fistachka/snegurochka<br><br>
  "Tell me, Snow Maiden" "Nu, Pogodi!" 2 st verse
 ![з4](https://github.com/user-attachments/assets/c7674d4f-dcb3-40dc-9238-3e6e654b1327)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/Ao1vQwQDNS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/eJWpa1ILpGs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Rasskazhi Snegurochka, gde byla?
-Rasskazhi-ka milaya, kak dela?
-Za toboyu begala Ded Moroz
-Prolila nemalo ya gor'kih slez.
+ZHdet moih podarochkov rebyatnya
+I tebe dostanetsya ot menya.
+Nakonec sbyvayutsya vse mechty,
+Luchshij moj podarochek - eto ty!
 
 A nu-ka, davaj-ka, plyasat' vyhodi!
 Net Ded Moroz, net Ded Moroz,
