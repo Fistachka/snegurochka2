@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>snegurochka2</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="Fistachka" repo="olen"/>
   <readme>
-    <ru>2a11a6a35febaf2620890b244d5b064f4da83a7ee96cad3891b9c867d279808d</ru>
-    <en>1fab8db26a31b80e71e5dfe79f55c170b99ea12fb49501db9757cf1177169baf</en>
+    <ru>6e0457d98b8b3a5e3d000395e26dd04814b70f213b1dd96f42814760af62d795</ru>
+    <en>b7f36f41622e4d7e85c7795503441ea7e1930bdce430da2a1aec97c95f9e2fd7</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
